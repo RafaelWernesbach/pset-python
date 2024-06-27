@@ -323,17 +323,6 @@ class Imagem:
         """
         return self.aplicar_borda_ou_foco(kernel_x, kernel_y, ajuste, filtro)
 
-    # Essa função ainda está sendo implementada
-    """
-    def espelhar(self):
-        ajuste = True;
-        
-        kernel = [[0, 0, 1],
-                  [0, 1, 0],
-                  [1, 0, 0]]
-
-        return self.usar_kernel(kernel, ajuste)
-                 """
 
     # Abaixo temos uma função referente a um filtro para desolocar um pixel, para testar nossa função de correlação(Questão 4)
     def deslocar(self):
