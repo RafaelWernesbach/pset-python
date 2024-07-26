@@ -5,7 +5,7 @@
 #    Nome completo: Rafael Christian Silva Wernesbach
 #    Matrícula: 202308237
 #    Turma: cc3mb
-#    Email: nkmnoff@gmail.com
+#    Email: rafael.wernesbach@gmail.com
 #
 # DECLARAÇÃO DE HONESTIDADE ACADÊMICA:
 # Eu afirmo que o código abaixo foi de minha autoria. Também afirmo que não
